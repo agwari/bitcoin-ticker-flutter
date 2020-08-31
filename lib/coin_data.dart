@@ -16,9 +16,11 @@ const List<String> currenciesList = [
   'PLN',
   'RON',
   'RUB',
+  'SAR',
   'SEK',
   'SGD',
   'USD',
+  'YER',
   'ZAR'
 ];
 
